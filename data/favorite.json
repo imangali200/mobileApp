@@ -1,0 +1,172 @@
+[
+  {
+    "product": {
+      "id": "9fb5fee7-c418-4008-9f1c-08dc901e99eb",
+      "name": "Кольцо 4389294730715 18,5 золото ",
+      "localizedName": "Сақина  4389294730715 18,5 алтын",
+      "isLatest": false,
+      "article": 4389294730715,
+      "uniqueIdentificator": null,
+      "inStock": true,
+      "description": "- значение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических;\n- желтое золото;\n- для женщин;\n- 585 проба;\n- 18,5 размер.",
+      "localizedDescription": "- фотосуреттегі  түсі, салмағының мәні және сипаттамалар шамамен орташа мәндер болып табылады және нақтыдан өзгеше болуы мүмкін;\n- сары алтын;\n- әйелдер үшін;\n- 585 үлгі;\n- өлшемі 18,5.",
+      "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-1679.jpg",
+      "basePrice": 131400,
+      "priceWithDiscount": 124830,
+      "individualPrice": 0,
+      "discountPercent": 5,
+      "category": {
+        "id": "74facc22-a6e8-4af1-e2e7-08dba71ef022",
+        "productsCount": 238,
+        "name": "Кольца",
+        "localizedName": null,
+        "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-51.jpg",
+        "bannerImagePath": null
+      },
+      "source": 0,
+      "weight": 3.6,
+      "isFavourite": true,
+      "viewCount": 582,
+      "classification": null,
+      "createdOn": "2024-07-12T07:11:59Z",
+      "updatedOn": "2025-07-14T07:13:49Z"
+    },
+    "createdOn": "2025-07-14T07:13:49Z"
+  },
+  {
+    "product": {
+      "id": "57394744-d578-4ebe-ecb3-08dc1f1af329",
+      "name": "Кольцо 4275991969872 19 золото",
+      "localizedName": "Сақина 4275991969872 19 алтын",
+      "isLatest": false,
+      "article": 4275991969872,
+      "uniqueIdentificator": null,
+      "inStock": true,
+      "description": "- значение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических;\n- желтое золото;\n- для женщин;\n- 585 проба;\n- 19 размер.\n-вставка: муассанит",
+      "localizedDescription": "- фотосуреттегі түсі,  салмағының мәні және сипаттамалар шамамен орташа мәндер болып табылады және нақтыдан өзгеше болуы мүмкін;\n- сары алтын;\n- әйелдер үшін;\n- 585 үлгі;\n- өлшемі 19\n-кірістіру: моиссанит",
+      "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-687.jpg",
+      "basePrice": 281250,
+      "priceWithDiscount": 264375,
+      "individualPrice": 281250,
+      "discountPercent": 6,
+      "category": {
+        "id": "74a7f4c5-f725-4616-ab13-08dbc738f87b",
+        "productsCount": 235,
+        "name": "Ювелирные изделия с бриллиантом",
+        "localizedName": null,
+        "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-44.jpg",
+        "bannerImagePath": null
+      },
+      "source": 0,
+      "weight": 6.25,
+      "isFavourite": true,
+      "viewCount": 210,
+      "classification": null,
+      "createdOn": "2024-01-28T06:43:30Z",
+      "updatedOn": "2025-07-14T07:16:23Z"
+    },
+    "createdOn": "2025-07-14T07:16:23Z"
+  },
+  {
+    "product": {
+      "id": "7fb2745d-77fc-42ca-8fa4-08dcf28cf308",
+      "name": "Кольцо 4053735423251 18 золото ",
+      "localizedName": "Сақина   4053735423251 18  алтын ",
+      "isLatest": true,
+      "article": 4053735423251,
+      "uniqueIdentificator": null,
+      "inStock": true,
+      "description": "\"- значение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических;\n- красное  золото;\n- для женщин;\n- 585 проба;\n- размер 18\"\n",
+      "localizedDescription": "\"- фотосуреттегі түсі,  салмағының мәні және сипаттамалар шамамен орташа мәндер болып табылады және нақтыдан өзгеше болуы мүмкін;\n- қызыл алтын;\n- әйелдер үшін;\n- 585 үлгі;\n - өлшемі 18\"\n",
+      "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-2454.jpg",
+      "basePrice": 116800,
+      "priceWithDiscount": 116800,
+      "individualPrice": 0,
+      "discountPercent": 0,
+      "category": {
+        "id": "74facc22-a6e8-4af1-e2e7-08dba71ef022",
+        "productsCount": 238,
+        "name": "Кольца",
+        "localizedName": null,
+        "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-51.jpg",
+        "bannerImagePath": null
+      },
+      "source": 0,
+      "weight": 3.2,
+      "isFavourite": true,
+      "viewCount": 140,
+      "classification": null,
+      "createdOn": "2024-10-28T09:16:19Z",
+      "updatedOn": "2025-07-14T10:08:54Z"
+    },
+    "createdOn": "2025-07-14T10:08:54Z"
+  },
+  {
+    "product": {
+      "id": "8068898a-d8e9-4d31-8fa5-08dcf28cf308",
+      "name": "Кольцо 4382480314164 17 золото ",
+      "localizedName": "Сақина   4382480314164 17  алтын ",
+      "isLatest": true,
+      "article": 4382480314164,
+      "uniqueIdentificator": null,
+      "inStock": true,
+      "description": "\"- значение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических;\n- красное  золото;\n- для женщин;\n- 585 проба;\n- размер 17\"\n",
+      "localizedDescription": "\"- фотосуреттегі түсі,  салмағының мәні және сипаттамалар шамамен орташа мәндер болып табылады және нақтыдан өзгеше болуы мүмкін;\n- қызыл алтын;\n- әйелдер үшін;\n- 585 үлгі;\n - өлшемі 17\"\n",
+      "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-2468.jpg",
+      "basePrice": 109500,
+      "priceWithDiscount": 109500,
+      "individualPrice": 0,
+      "discountPercent": 0,
+      "category": {
+        "id": "74facc22-a6e8-4af1-e2e7-08dba71ef022",
+        "productsCount": 238,
+        "name": "Кольца",
+        "localizedName": null,
+        "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-51.jpg",
+        "bannerImagePath": null
+      },
+      "source": 0,
+      "weight": 3,
+      "isFavourite": true,
+      "viewCount": 327,
+      "classification": null,
+      "createdOn": "2024-10-28T09:20:25Z",
+      "updatedOn": "2025-07-14T10:08:55Z"
+    },
+    "createdOn": "2025-07-14T10:08:55Z"
+  },
+  {
+    "product": {
+      "id": "4e0d18da-1429-4de8-fe41-08dc1ae584bb",
+      "name": "Кольцо 4859672050334 18,5 золото",
+      "localizedName": "Сақина 4859672050334 18,5 алтын",
+      "isLatest": false,
+      "article": 4859672050334,
+      "uniqueIdentificator": null,
+      "inStock": true,
+      "description": "- значение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических;\n- желтое золото;\n- для женщин;\n- 585 проба;\n- 18,5 размер.\n-вставка: муассанит",
+      "localizedDescription": "- фотосуреттегі түсі,  салмағының мәні және сипаттамалар шамамен орташа мәндер болып табылады және нақтыдан өзгеше болуы мүмкін;\n- сары алтын;\n- әйелдер үшін;\n- 585 үлгі;\n- өлшемі 18,5\n-кірістіру: моиссанит",
+      "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-703.jpg",
+      "basePrice": 157500,
+      "priceWithDiscount": 141750,
+      "individualPrice": 157500,
+      "discountPercent": 10,
+      "category": {
+        "id": "74a7f4c5-f725-4616-ab13-08dbc738f87b",
+        "productsCount": 235,
+        "name": "Ювелирные изделия с бриллиантом",
+        "localizedName": null,
+        "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-44.jpg",
+        "bannerImagePath": null
+      },
+      "source": 0,
+      "weight": 3.5,
+      "isFavourite": true,
+      "viewCount": 10492,
+      "classification": null,
+      "createdOn": "2024-01-24T14:56:01Z",
+      "updatedOn": "2025-07-15T11:06:49Z"
+    },
+    "createdOn": "2025-07-15T11:06:49Z"
+  }
+]

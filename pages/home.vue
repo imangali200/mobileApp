@@ -2,7 +2,8 @@
   <div class="tw-text-black tw-mt-[70px]">
     <div class="tw-mx-2">
       <input
-        class="tw-w-full tw-h-[48px] tw-bg-transparent tw-pl-2 tw-border-[1px] tw-border-[#EBEBEB] tw-rounded-[14px]"
+        style="border: solid 1px gray;"
+        class="tw-w-full tw-h-[48px] tw-bg-transparent tw-pl-2 tw-border-[1px] tw-rounded-[14px]"
         type="text"
         placeholder="Поиск..."
       />

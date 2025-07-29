@@ -1,0 +1,70 @@
+{
+  "items": [
+    {
+      "product": {
+        "id": "a37ce19c-2a31-4d57-4674-08dc26d70f66",
+        "name": "Серьги 4399156430240 золото",
+        "localizedName": "Сырға 4399156430240 алтын",
+        "isLatest": false,
+        "article": 4399156430240,
+        "inStock": true,
+        "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-899.jpg",
+        "basePrice": 270000,
+        "priceWithDiscount": 256500,
+        "individualPrice": 270000,
+        "discountPercent": 5,
+        "weight": 6
+      }
+    },
+    {
+      "product": {
+        "id": "c95273af-f2ab-435c-4643-08dc26d70f66",
+        "name": "Серьги 4382732382330 золото",
+        "localizedName": "Сырға 4382732382330 алтын",
+        "isLatest": false,
+        "article": 4382732382330,
+        "inStock": true,
+        "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-1056.jpg",
+        "basePrice": 357750,
+        "priceWithDiscount": 339862.5,
+        "individualPrice": 357750,
+        "discountPercent": 5,
+        "weight": 7.95
+      }
+    },
+    {
+      "product": {
+        "id": "14f51b40-8c5e-45c5-463c-08dc26d70f66",
+        "name": "Серьги 4174359001776 золото",
+        "localizedName": "Сырға 4174359001776 алтын",
+        "isLatest": false,
+        "article": 4174359001776,
+        "inStock": true,
+        "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-1087.jpg",
+        "basePrice": 297000,
+        "priceWithDiscount": 282150,
+        "individualPrice": 297000,
+        "discountPercent": 5,
+        "weight": 6.6
+      }
+    },
+    {
+      "product": {
+        "id": "3f20fc4e-f3e8-42bd-463b-08dc26d70f66",
+        "name": "Серьги 4844055008095 золото",
+        "localizedName": "Сырға 4844055008095 алтын",
+        "isLatest": false,
+        "article": 4844055008095,
+        "inStock": true,
+        "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-1041.jpg",
+        "basePrice": 285300,
+        "priceWithDiscount": 271035,
+        "individualPrice": 285300,
+        "discountPercent": 5,
+        "weight": 6.34
+      }
+    }
+  ],
+  "totalPrice": 1149547.5,
+  "discountPrice": 60502.5
+}

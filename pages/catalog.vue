@@ -2,8 +2,8 @@
   <div>
     <ion-header class="tw-bg-white">
       <ion-toolbar style="--background: white; --border-width: 0">
-        <ion-title class="tw-text-black tw-pt-7 tw-pb-2">
-          Изделия со скидкой
+        <ion-title class="tw-text-black tw-pt-7 tw-pb-2 tw-pl-3">
+          Каталог
         </ion-title>
       </ion-toolbar>
     </ion-header>

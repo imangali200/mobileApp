@@ -11,14 +11,14 @@
             <img class="tw-w-[24px] tw-h-[24px]" src="/katalog.png" alt="" />
             <span class="tw-text-[12px] tw-text-[#909090]">Каталог</span>
           </NuxtLink>
-          <div class="tw-flex tw-flex-col tw-items-center">
+          <NuxtLink to="/card" class="tw-flex tw-flex-col tw-items-center">
             <img class="tw-w-[24px] tw-h-[24px]" src="/korzina.png" alt="" />
             <span class="tw-text-[12px] tw-text-[#909090]">Корзина</span>
-          </div>
-          <div class="tw-flex tw-flex-col tw-items-center">
+          </NuxtLink>
+          <NuxtLink to="/favorite" class="tw-flex tw-flex-col tw-items-center">
             <img class="tw-w-[24px] tw-h-[24px]" src="/like.png" alt="" />
             <span class="tw-text-[12px] tw-text-[#909090]">Избранное</span>
-          </div>
+          </NuxtLink>
           <div class="tw-flex tw-flex-col tw-items-center">
             <img class="tw-w-[24px] tw-h-[24px]" src="/profile.png" alt="" />
             <span class="tw-text-[12px] tw-text-[#909090]">Профиль</span>
