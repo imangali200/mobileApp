@@ -3,7 +3,7 @@
     <ion-header>
       <ion-toolbar>
         <div class="tw-px-3 tw-flex tw-items-center">
-          <img class="tw-w-[24px] tw-h-[24px]" src="/leftArrow.png" alt="" />
+          <img @click="$router.back()" class="tw-w-[24px] tw-h-[24px]" src="/leftArrow.png" alt="" />
           <h2 class="tw-text-[#111111] tw-text-[16px] tw-font-[500] tw-mx-auto">
             Избранное
           </h2>
@@ -12,8 +12,8 @@
     </ion-header>
     <div class="tw-mx-3">
       <div
-        v-for="item in datas.items"
-        :key="item.product.id"
+        v-for="item in datas"
+        :key="item.id"
         class="tw-bg-[#F8F8F8] tw-rounded-[14px] tw-p-2 tw-mt-5 tw-relative"
       >
         <div class="tw-flex tw-items-center tw-gap-3">
@@ -48,12 +48,12 @@
 definePageMeta({
   middleware: "auth",
 });
-import cardData from "../data/card.json";
+import favoriteData from "../data/favorite.json";
 const datas = ref([]);
-datas.value = cardData;
+datas.value = favoriteData;
 
 function remove(id) {
-  datas.value.items = datas.value.items.filter(
+  datas.value.items = datas.value.filter(
     (item) => item.product.id !== id
   );
 }

@@ -1,6 +1,6 @@
 <template>
   <div class="tw-text-black tw-mt-[70px]">
-    <div class="tw-mx-2">
+    <div class="tw-mx-3">
       <input
         style="border: solid 1px gray;"
         class="tw-w-full tw-h-[48px] tw-bg-transparent tw-pl-2 tw-border-[1px] tw-rounded-[14px]"

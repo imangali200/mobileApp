@@ -69,9 +69,9 @@
 definePageMeta({
   middleware: "auth",
 });
-import favoriteData from "../data/favorite.json";
+import cardData from "../data/card.json";
 const datas = ref([]);
-datas.value = favoriteData;
+datas.value = cardData;
 
 function remove(id) {
   datas.value.items = datas.value.items.filter(
