@@ -48,7 +48,7 @@
       <div class="tw-w-full tw-flex tw-mt-3">
         <p class="tw-text-[14px] tw-text-[#414141] tw-mx-auto">
           Нет учетной записи?
-          <span class="tw-text-[#34398B] tw-font-[500]"
+          <span @click="$router.push('/mainPage')" class="tw-text-[#34398B] tw-font-[500]"
             >Зарегистрироваться</span
           >
         </p>
@@ -57,6 +57,9 @@
   </div>
 </template>
 <script setup lang="ts">
+definePageMeta({
+  layout:'auth'
+})
 const phoneNumber = ref("");
 const error = ref("");
 const password = ref("");
@@ -75,6 +78,7 @@ const loginButton = async () => {
         phoneNumber: phoneNumber.value,
       },
     });
+    
     if (res && res.token) {
       token.value = res.token;
       error.value = "";
