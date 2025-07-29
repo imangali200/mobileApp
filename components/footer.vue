@@ -3,14 +3,14 @@
     <ion-footer style="--background: white">
       <ion-toolbar>
         <div class="tw-text-black tw-flex tw-justify-evenly">
-          <div class="tw-flex tw-flex-col tw-items-center">
+          <NuxtLink to="/home" class="tw-flex tw-flex-col tw-items-center">
             <img class="tw-w-[24px] tw-h-[24px]" src="/shop.png" alt="" />
             <span class="tw-text-[12px] tw-text-[#909090]">Магазин</span>
-          </div>
-          <div class="tw-flex tw-flex-col tw-items-center">
+          </NuxtLink>
+          <NuxtLink to="/catalog" class="tw-flex tw-flex-col tw-items-center">
             <img class="tw-w-[24px] tw-h-[24px]" src="/katalog.png" alt="" />
             <span class="tw-text-[12px] tw-text-[#909090]">Каталог</span>
-          </div>
+          </NuxtLink>
           <div class="tw-flex tw-flex-col tw-items-center">
             <img class="tw-w-[24px] tw-h-[24px]" src="/korzina.png" alt="" />
             <span class="tw-text-[12px] tw-text-[#909090]">Корзина</span>

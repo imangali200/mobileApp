@@ -1,0 +1,74 @@
+[
+  {
+    "id": "eb8d45ea-0f06-42c7-f8cc-08dba815950e",
+    "productsCount": 99,
+    "name": "Браслеты",
+    "localizedName": "Білезіктер",
+    "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-50.jpg",
+    "bannerImagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-445.jpg"
+  },
+  {
+    "id": "e9a00723-d69e-4174-ab10-08dbc738f87b",
+    "productsCount": 1,
+    "name": "Броши",
+    "localizedName": "Броши",
+    "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-47.jpg",
+    "bannerImagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-440.jpg"
+  },
+  {
+    "id": "0f4c8ad4-412d-4260-ab11-08dbc738f87b",
+    "productsCount": 14,
+    "name": "Колье",
+    "localizedName": "Алқа",
+    "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-46.jpg",
+    "bannerImagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-439.jpg"
+  },
+  {
+    "id": "74facc22-a6e8-4af1-e2e7-08dba71ef022",
+    "productsCount": 238,
+    "name": "Кольца",
+    "localizedName": "Сақиналар",
+    "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-51.jpg",
+    "bannerImagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-444.jpg"
+  },
+  {
+    "id": "99e676a3-6973-4e0b-ab0f-08dbc738f87b",
+    "productsCount": 62,
+    "name": "Подвески",
+    "localizedName": "Кулондар",
+    "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-48.jpg",
+    "bannerImagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-441.jpg"
+  },
+  {
+    "id": "2f9cd12b-d901-400b-ab12-08dbc738f87b",
+    "productsCount": 0,
+    "name": "Прочее",
+    "localizedName": "Басқа",
+    "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-45.jpg",
+    "bannerImagePath": null
+  },
+  {
+    "id": "edf43f31-f088-4b70-ab0e-08dbc738f87b",
+    "productsCount": 276,
+    "name": "Серьги",
+    "localizedName": "Сырғалар",
+    "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-49.jpg",
+    "bannerImagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-442.jpg"
+  },
+  {
+    "id": "97078370-4bc0-4e1f-ab0d-08dbc738f87b",
+    "productsCount": 223,
+    "name": "Цепи",
+    "localizedName": "Тізбектер",
+    "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-61.png",
+    "bannerImagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-443.jpg"
+  },
+  {
+    "id": "74a7f4c5-f725-4616-ab13-08dbc738f87b",
+    "productsCount": 235,
+    "name": "Ювелирные изделия с бриллиантом",
+    "localizedName": "Гауһар зергерлік бұйымдар",
+    "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-44.jpg",
+    "bannerImagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-446.jpg"
+  }
+]

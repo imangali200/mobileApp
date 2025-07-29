@@ -1,0 +1,79 @@
+{
+  "id": "2575dbda-e5ed-405b-8f32-08dcf28cf308",
+  "name": "Кольцо 4553983528949 17,5 золото ",
+  "localizedName": "Сақина   4553983528949 17,5   алтын",
+  "article": 4553983528949,
+  "uniqueIdentificator": null,
+  "isLatest": false,
+  "inStock": true,
+  "description": "\"- значение веса оттенка на фото и характеристики являются примерными усредненными и могут отличаться от фактических;\n- желтое золото;\n- для женщин;\n- 585 проба;\n- бриллиант\"\n",
+  "localizedDescription": "\"- фотосуреттегі түсі,  салмағының мәні және сипаттамалар шамамен орташа мәндер болып табылады және нақтыдан өзгеше болуы мүмкін;\n- сары алтын;\n- әйелдер үшін;\n- 585 үлгі;\n- гауһар.\"\n",
+  "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-2222.jpg",
+  "isFavourite": false,
+  "viewCount": 117,
+  "metadata": {
+    "attachments": "https://api.store.astra-lombard.kz/Files/Images/Program/file-2222.jpg;https://api.store.astra-lombard.kz/Files/Images/Program/file-2223.jpg",
+    "attachmentsArray": [
+      {
+        "path": "https://api.store.astra-lombard.kz/Files/Images/Program/file-2222.jpg"
+      },
+      {
+        "path": "https://api.store.astra-lombard.kz/Files/Images/Program/file-2223.jpg"
+      }
+    ],
+    "filters": "{Проба:585};{Производитель:Турция};{Вид кольца:Классические кольца};{Цвет металла:Желтое золото};{Вставка:Бриллиант};{Размер:17,5};{Для кого:Женское}",
+    "filtersArray": [
+      {
+        "name": "Проба",
+        "value": "585"
+      },
+      {
+        "name": "Производитель",
+        "value": "Турция"
+      },
+      {
+        "name": "Вид кольца",
+        "value": "Классические кольца"
+      },
+      {
+        "name": "Цвет металла",
+        "value": "Желтое золото"
+      },
+      {
+        "name": "Вставка",
+        "value": "Бриллиант"
+      },
+      {
+        "name": "Размер",
+        "value": "17,5"
+      },
+      {
+        "name": "Для кого",
+        "value": "Женское"
+      }
+    ]
+  },
+  "basePrice": 249750,
+  "priceWithDiscount": 249750,
+  "individualPrice": 249750,
+  "discountPercent": 0,
+  "weight": 5.55,
+  "package": null,
+  "goldStandard": {
+    "id": "00eab43a-c3c8-485d-f9cd-08db9b737764",
+    "standard": "585",
+    "price": 36500,
+    "createdOn": "2023-08-12T20:34:02Z"
+  },
+  "category": {
+    "id": "74a7f4c5-f725-4616-ab13-08dbc738f87b",
+    "productsCount": 235,
+    "name": "Ювелирные изделия с бриллиантом",
+    "localizedName": "Сақина   4553983528949 17,5   алтын",
+    "imagePath": "https://api.store.astra-lombard.kz/Files/Images/Program/file-44.jpg",
+    "bannerImagePath": null
+  },
+  "classification": null,
+  "createdOn": "2024-10-23T07:27:49Z",
+  "updatedOn": "2025-07-23T07:54:46Z"
+}

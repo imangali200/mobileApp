@@ -1,10 +1,10 @@
 <template>
   <div class="tw-w-full tw-mt-3" :class="bgClass">
     <div
-      class="tw-max-w-[1300px] tw-mx-auto tw-px-[16px] tw-py-[40px] md:tw-p-[70px] tw-flex tw-flex-col tw-gap-[20px] md:tw-gap-[40px]"
+      class="tw-max-w-[1300px] tw-mx-auto tw-px-[16px] tw-py-[15px] md:tw-p-[70px] tw-flex tw-flex-col tw-gap-[20px] md:tw-gap-[40px]"
     >
       <h1
-        class="tw-text-2xl md:tw-text-[39px] lg:tw-text-[50px] tw-text-white tw-mb-4 tw-flex tw-items-center tw-justify-between"
+        class="tw-text-2xl md:tw-text-[39px] lg:tw-text-[50px] tw-text-black tw-mb-4 tw-flex tw-items-center tw-justify-between"
       >
         {{ title }}
         <p class="tw-text-[#34398B] tw-text-xs tw-block md:tw-hidden">Все</p>
@@ -15,15 +15,15 @@
           type: 'slide',
           perPage: getVisibleCount(),
           perMove: 1,
-          gap: '20px',
+          gap: '0px',
           focus: 'center',
           autoplay: true,
           interval: 3000,
-          arrows: true,
+          arrows: false,
           pagination: false,
           breakpoints: {
-            768: { perPage: 2, gap: '40px' },
-            1024: { perPage: 3, gap: '20px' },
+            768: { perPage: 2, gap: '0px' },
+            1024: { perPage: 3, gap: '0px' },
           },
         }"
         ref="splideRef"
@@ -40,11 +40,7 @@
                 src="/discount2.png"
                 alt=""
               />
-              <img
-                class="tw-w-[32px] tw-h-[32px]"
-                src="/star2.png"
-                alt=""
-              />
+              <img class="tw-w-[32px] tw-h-[32px]" src="/star2.png" alt="" />
               <img
                 class="tw-hidden md:tw-block tw-w-[32px] tw-h-[32px]"
                 src="/crown2.png"
@@ -52,19 +48,13 @@
               />
 
               <img
-                @click="favorite(product.id)"
                 class="tw-block tw-w-[32px] tw-h-[32px] md:tw-hidden tw-absolute tw-right-5"
                 src="/like2.png"
                 alt=""
               />
             </div>
             <img
-              @click="
-                $router.push({
-                  path: '/products/detail',
-                  query: { categoryId: product.id },
-                })
-              "
+              @click="$router.push({ path: '/details' })"
               class="tw-h-[139px] sm:tw-h-[160px] md:tw-h-[180px] lg:tw-w-[250px] tw-w-full tw-object-cover"
               :src="product.imagePath"
               alt=""
@@ -102,13 +92,10 @@
               class="tw-hidden sm:tw-flex tw-justify-between tw-items-center sm:tw-mb-[10px]"
             >
               <button
-                @click="tokorzina(product.id)"
                 class="tw-text-[#FF8A00] tw-bg-[#FFEEDB] tw-w-[211px] tw-h-[40px] tw-rounded-[12px]"
               >
                 В корзину
               </button>
-
-
             </div>
           </div>
         </SplideSlide>
@@ -160,7 +147,7 @@ const props = defineProps<{
   products: Product[];
   bgClass: String;
 }>();
-console.log(props)
+
 const screenWidth = ref<number>(0);
 onMounted(() => {
   screenWidth.value = window.innerWidth;

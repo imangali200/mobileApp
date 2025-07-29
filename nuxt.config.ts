@@ -6,7 +6,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   ssr: false,
   modules: ["@nuxtjs/ionic", "@nuxtjs/tailwindcss"],
-  css: ["@splidejs/vue-splide/css"],
+  css: ["@splidejs/vue-splide/css", "vuetify/styles"],
   ionic: {
     css: {
       utilities: true,
@@ -14,5 +14,8 @@ export default defineNuxtConfig({
   },
   imports: {
     autoImport: true,
+  },
+  build: {
+    transpile: ["vuetify"],
   },
 });

@@ -48,7 +48,7 @@
       <div class="tw-w-full tw-flex tw-mt-3">
         <p class="tw-text-[14px] tw-text-[#414141] tw-mx-auto">
           Нет учетной записи?
-          <span @click="$router.push('/mainPage')" class="tw-text-[#34398B] tw-font-[500]"
+          <span @click="$router.push('/home')" class="tw-text-[#34398B] tw-font-[500]"
             >Зарегистрироваться</span
           >
         </p>
