@@ -4,12 +4,6 @@
       <ion-toolbar style="--background: white; --border-width: 0">
         <div class="tw-flex tw-items-center tw-px-2 tw-py-2">
           <img
-            @click="$router.back"
-            class="tw-w-[24px] tw-h-[24px]"
-            src="/public/leftArrow.png"
-            alt="Back"
-          />
-          <img
             class="tw-w-[190px] tw-h-[33px] tw-mx-auto"
             src="/logo.png"
             alt="Logo"

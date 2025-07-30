@@ -1,13 +1,14 @@
 <template>
-  <NuxtLink
-    to="/auth/login"
-    class="tw-flex tw-items-center tw-justify-center tw-h-[100vh]"
-  >
+  <div class="tw-flex tw-items-center tw-justify-center tw-h-[100vh]">
     <img class="tw-w-[239px] tw-h-[41px]" src="/logo.png" alt="" />
-  </NuxtLink>
+  </div>
 </template>
-<script setup lang="ts">
+<script setup>
 definePageMeta({
-  layout: "auth",
-});
+  layout:'auth'
+})
+const router = useRouter();
+setTimeout(() => {
+  router.push("/auth/login");
+}, 2000);
 </script>
